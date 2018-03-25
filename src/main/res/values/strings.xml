@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nothing_Internacional</string>
+    <string name="Nada">Nada</string>
+    <string name="Nothing">Nothing</string>
+    <string name="Niente">Niente</string>
+    <string name="Starttime">O app iniciou em:</string>
+    <string name="TimePaused">Voltou! Uma breve pausa de:</string>
+    <string name="timeStopped">Ufa! Achei que iria embora! Que pausa de:</string>
+    <string name="Segundos">segundos</string>
+    <string name="Minutos">minutos</string>
+</resources>
