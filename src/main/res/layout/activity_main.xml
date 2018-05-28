@@ -1,23 +1,12 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="horizontal"
-    tools:context="br.pucminas.computacao.ldddm.myapplicationfragment.MainActivity">
+    android:layout_height="match_parent">
 
-    <fragment
-        android:id="@+id/fragment"
-        class="br.pucminas.computacao.ldddm.myapplicationfragment.MenuFragment"
-        android:layout_width="190dp"
-        android:layout_height="match_parent" />
-
-    <fragment
-        android:id="@+id/fragment2"
-        class="br.pucminas.computacao.ldddm.myapplicationfragment.TextFragment"
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvpages"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"/>
 
-
-
-
-</LinearLayout>
+</RelativeLayout>
