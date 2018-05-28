@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name">trabalhopratico1</string>
-    <string name="Save">Save</string>
-    <string name="Add_Pages">Add Pages</string>
-    <string name="Text">"Bom Dia/Tarde/Noite! Seu número está nos meus contatos e criei um evento no dia do seu ániversario"</string>
+    <string name="app_name">My Application Fragment</string>
 </resources>
