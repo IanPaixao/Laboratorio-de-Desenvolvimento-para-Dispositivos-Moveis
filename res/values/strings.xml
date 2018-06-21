@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TrabalhoPrático2</string>
+
+    <string-array name="cidades">
+        <item>Aracaju</item>
+        <item>Belo Horizonte</item>
+        <item>Belém</item>
+        <item>Boa Vista</item>
+        <item>Brasília</item>
+        <item>Campo Grande</item>
+        <item>Cuiabá</item>
+        <item>Curitiba</item>
+        <item>Florianópolis</item>
+        <item>Fortaleza</item>
+        <item>Goiânia</item>
+        <item>João Pessoa</item>
+        <item>Macapá</item>
+        <item>Maceió</item>
+        <item>Manaus</item>
+        <item>Natal</item>
+        <item>Palmas</item>
+        <item>Porto Alegre</item>
+        <item>Porto Velho</item>
+        <item>Recife</item>
+        <item>Rio Branco</item>
+        <item>Rio de Janeiro</item>
+        <item>Salvador</item>
+        <item>São Luís</item>
+        <item>São Paulo</item>
+        <item>Teresina</item>
+        <item>Vitória</item>
+    </string-array>
+
+    <string-array name="estados">
+        <item>AC</item>
+        <item>AL</item>
+        <item>AM</item>
+        <item>AP</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MG</item>
+        <item>MS</item>
+        <item>MT</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>PR</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>RS</item>
+        <item>SC</item>
+        <item>SE</item>
+        <item>SP</item>
+        <item>TO</item>
+    </string-array>
+</resources>
